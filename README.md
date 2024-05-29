@@ -1,8 +1,8 @@
-# Automatic Pet Feeder System
+# Smart Pet Feeder System
 
 ## Overview
 
-The Automatic Pet Feeder System allows pet owners to feed their pets automatically, even when they are not present. In today's busy world, where owners often have tight schedules or are away due to commitments, this system provides exceptional benefits. Owners can be at ease knowing that their pets will receive regular meals and be properly fed.
+The Smart Pet Feeder System allows pet owners to feed their pets automatically, even when they are not present. In today's busy world, where owners often have tight schedules or are away due to commitments, this system provides exceptional benefits. Owners can be at ease knowing that their pets will receive regular meals and be properly fed.
 
 ## Key Features
 
